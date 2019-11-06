@@ -2,10 +2,10 @@
 
 Please see deployed app here https://stanislavsukhanov.github.io/ciklum-university-js-band-internship/
 
-The main logic is tested and works stable. 
-Local storage is not yet configured. 
-The idea behind this is to store saved todos even if a page has got reloaded. 
-Styling is not yet finished completely
+This repo has been reinitialized because gh pages has not displayed updates in a second build (fixed styles and minor updates in logic). 
+Main logic has been implemened within mentioned deadline, but i've spent some time to figure out how to deploy it gh-pages. The reason - it's been initially completed in a codesandbox environment. 
+Hope it won't be an issue. 
+Looking forweard to joining you :)
 
 ## Building and running on localhost
 
